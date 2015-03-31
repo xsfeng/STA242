@@ -1,4 +1,5 @@
 # STA242
+<<<<<<< HEAD
 this is a test
 
 ```c++
@@ -11,4 +12,10 @@ int main() {
     return 0;
 }
 
+=======
+--------
+
+```c++
+#include <iostream>
+>>>>>>> master
 ```
